@@ -15,7 +15,8 @@ The main implementation is in validateNullCheck()
 
 Both Can be executed from validateAPIResponse() Method.
 It has TestNG annotation , we just needed to right click -> Run validateAPIResponse()
-Output can be seen in consoe window
+
+Output can be seen in console window
 
 
 # Assignment 2 - UI
